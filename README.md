@@ -28,7 +28,7 @@ Access the app here: [Movie Booking App](https://movie-booking-app-tpx5.onrender
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-booking-app.git
+   git clone https://github.com/abhigyanpatek/movie-booking-app.git
    ```
 2. Navigate to the project folder:
    ```bash
